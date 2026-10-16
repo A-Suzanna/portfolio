@@ -63,7 +63,8 @@ actual website
 <img width="1440" height="808" alt="Screenshot 2026-10-16 at 21 21 16" src="https://github.com/user-attachments/assets/b5a0a35b-6bd9-4425-ba5b-2cea7e73a457" />
 
 planning on Canva
-<img width="1149" height="630" alt="Screenshot 2026-10-16 at 21 22 03" src="https://github.com/user-attachments/assets/d84e3810-9ab2-4c68-9369-529d23f14b72" />
+<img width="1149" height="630" alt="Screenshot 2026-10-16 at 21 34 45" src="https://github.com/user-attachments/assets/28383e57-6f01-45f8-b1c4-b043bedc9386" />
+
 
 
 **created by Angeline Suzanna**
